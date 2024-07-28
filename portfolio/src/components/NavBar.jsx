@@ -16,7 +16,7 @@ const navbar = () => {
       <FaGithub />
       </a>
 
-      <a href="www.linkedin.com/in/sidsince2003">
+      <a href="https://www.linkedin.com/in/sidsince2003/">
       <FaLinkedin />
       </a>
        
